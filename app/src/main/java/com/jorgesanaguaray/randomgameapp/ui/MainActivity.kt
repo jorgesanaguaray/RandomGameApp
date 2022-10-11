@@ -1,7 +1,8 @@
-package com.jorgesanaguaray.randomgameapp
+package com.jorgesanaguaray.randomgameapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jorgesanaguaray.randomgameapp.R
 
 class MainActivity : AppCompatActivity() {
 
