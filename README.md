@@ -1,33 +1,6 @@
-# RandomGameApp
-Aplicación Android que te muestra un juego aleatorio. Esta aplicación está desarrollada con Retrofit2, Room, Dagger Hilt, Corrutinas, ViewModel, LiveData y con la arquitectura MVVM.
+Learn how to consume an API and get a random game.
 
-Link de la API: https://www.freetogame.com/
+Tutorial on YouTube: https://youtu.be/JFng7AIx9Hw
 
-<h2>Características de la Aplicación:</h2>
-• Un botón que nos lleva a la página oficial del juego.
-<br>
-• Un botón que nos entrega un juego aleatorio.
-<br>
-• Guarda la información localmente para poder usar la aplicación, incluso sin conexión a internet.
+[![Watch the video](https://pbs.twimg.com/media/FhUnyFJWIAIbMHb?format=jpg&name=large)](https://youtu.be/JFng7AIx9Hw)
 
-<h2>Librerías usadas:</h2>
-• Retrofit2
-<br>
-• Room
-<br>
-• Dagger Hilt
-<br>
-• Corrutinas
-<br>
-• ViewModel
-<br>
-• LiveData
-<br>
-• Coil
-
-<h2>Capturas:</h2>
-<div align="center">
-    <img src="https://pbs.twimg.com/media/Fez1ehsXEAQSG-E?format=jpg&name=4096x4096" width="300px"</img> 
-    <img src="https://pbs.twimg.com/media/Fez1ej-XEBoZNrH?format=jpg&name=4096x4096" width="300px"</img> 
-    <img src="https://pbs.twimg.com/media/Fez1ekBXEAYfsr5?format=jpg&name=4096x4096" width="300px"</img> 
-</div>
