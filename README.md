@@ -37,5 +37,5 @@ An Android app that allows users to press a button and receive a random game fro
 
 [Tutorial on YouTube](https://youtu.be/JFng7AIx9Hw)
 
-![App Screenshot](https://pbs.twimg.com/media/FhUnyFJWIAIbMHb?format=jpg&name=large)
+![App Screenshot](https://pbs.twimg.com/media/FkN2eyVXwAAUW8v?format=jpg&name=large)
 
